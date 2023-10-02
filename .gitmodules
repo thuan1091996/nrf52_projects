@@ -1,4 +1,4 @@
-[submodule "obd2_zephyrt"]
+[submodule "obd2_zephyr"]
 	path = obd2_zephyr
 	url = https://github.com/thuan1091996/obd2_zephyr.git
 [submodule "hal_nrf52"]
