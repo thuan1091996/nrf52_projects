@@ -1,6 +1,3 @@
-[submodule "obd2_zephyr"]
-	path = obd2_zephyr
-	url = https://github.com/thuan1091996/obd2_zephyr.git
 [submodule "hal_nrf52"]
 	path = hal_nrf52
 	url = https://github.com/thuan1091996/hal_nrf52.git
@@ -13,3 +10,6 @@
 [submodule "zephyr_button_evts"]
 	path = zephyr_button_evts
 	url = https://github.com/thuan1091996/zephyr-button-events.git
+[submodule "obd2_zephyr"]
+	path = obd2_zephyr
+	url = https://github.com/thuan1091996/obd2_zephyr.git
