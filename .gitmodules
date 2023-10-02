@@ -1,0 +1,15 @@
+[submodule "obd2_zephyrt"]
+	path = obd2_zephyr
+	url = https://github.com/thuan1091996/obd2_zephyr.git
+[submodule "hal_nrf52"]
+	path = hal_nrf52
+	url = https://github.com/thuan1091996/hal_nrf52.git
+[submodule "ble_peripheral"]
+	path = ble_peripheral
+	url = https://github.com/thuan1091996/ble_peripheral
+[submodule "zephyr_ble_buzzer"]
+	path = zephyr_ble_buzzer
+	url = https://github.com/thuan1091996/Zephyr_BLE_buzzer
+[submodule "zephyr_button_evts"]
+	path = zephyr_button_evts
+	url = https://github.com/thuan1091996/zephyr-button-events.git
