@@ -13,3 +13,6 @@
 [submodule "obd2_zephyr"]
 	path = obd2_zephyr
 	url = https://github.com/thuan1091996/obd2_zephyr.git
+[submodule "ble_sensor"]
+	path = ble_sensor
+	url = https://github.com/thuan1091996/ble_sensor.git
