@@ -16,3 +16,6 @@
 [submodule "ble_sensor"]
 	path = ble_sensor
 	url = https://github.com/thuan1091996/ble_sensor.git
+[submodule "hal_zephyr"]
+	path = hal_zephyr
+	url = https://github.com/thuan1091996/hal_zephyr.git
